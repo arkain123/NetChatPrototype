@@ -1,0 +1,14 @@
+E:\BNTU\2курс\КСИС\ChatServer\bin\Debug\net8.0\ChatServer.exe
+E:\BNTU\2курс\КСИС\ChatServer\bin\Debug\net8.0\ChatServer.deps.json
+E:\BNTU\2курс\КСИС\ChatServer\bin\Debug\net8.0\ChatServer.runtimeconfig.json
+E:\BNTU\2курс\КСИС\ChatServer\bin\Debug\net8.0\ChatServer.dll
+E:\BNTU\2курс\КСИС\ChatServer\bin\Debug\net8.0\ChatServer.pdb
+E:\BNTU\2курс\КСИС\ChatServer\obj\Debug\net8.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\BNTU\2курс\КСИС\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfoInputs.cache
+E:\BNTU\2курс\КСИС\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfo.cs
+E:\BNTU\2курс\КСИС\ChatServer\obj\Debug\net8.0\ChatServer.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\КСИС\ChatServer\obj\Debug\net8.0\ChatServer.dll
+E:\BNTU\2курс\КСИС\ChatServer\obj\Debug\net8.0\refint\ChatServer.dll
+E:\BNTU\2курс\КСИС\ChatServer\obj\Debug\net8.0\ChatServer.pdb
+E:\BNTU\2курс\КСИС\ChatServer\obj\Debug\net8.0\ChatServer.genruntimeconfig.cache
+E:\BNTU\2курс\КСИС\ChatServer\obj\Debug\net8.0\ref\ChatServer.dll

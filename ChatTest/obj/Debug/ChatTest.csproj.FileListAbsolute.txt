@@ -1,0 +1,10 @@
+E:\BNTU\2курс\КСИС\ChatTest\bin\Debug\ChatTest.exe.config
+E:\BNTU\2курс\КСИС\ChatTest\bin\Debug\ChatTest.exe
+E:\BNTU\2курс\КСИС\ChatTest\bin\Debug\ChatTest.pdb
+E:\BNTU\2курс\КСИС\ChatTest\obj\Debug\ChatTest.csproj.AssemblyReference.cache
+E:\BNTU\2курс\КСИС\ChatTest\obj\Debug\ChatTest.Form1.resources
+E:\BNTU\2курс\КСИС\ChatTest\obj\Debug\ChatTest.Properties.Resources.resources
+E:\BNTU\2курс\КСИС\ChatTest\obj\Debug\ChatTest.csproj.GenerateResource.cache
+E:\BNTU\2курс\КСИС\ChatTest\obj\Debug\ChatTest.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\КСИС\ChatTest\obj\Debug\ChatTest.exe
+E:\BNTU\2курс\КСИС\ChatTest\obj\Debug\ChatTest.pdb
